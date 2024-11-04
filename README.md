@@ -24,4 +24,5 @@
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3kguccisuit&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=3kguccisuit&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3kguccisuit&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3kguccisuit&layout=compact&theme=dark&v=1)
+
